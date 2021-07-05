@@ -4,12 +4,8 @@ CLI tool for generating go boiler plate made with [cobra](https://github.com/spf
 
 ## Installation
 
-1. You must have [go](https://golang.org/dl/) (duh).
-2. Clone the repository and run 
-
-
 ```bash
-go install
+go get github.com/siddhanthpx/go-start
 ```
 
 Which will install the binary to your $GOPATH/bin
